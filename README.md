@@ -6,12 +6,8 @@
 - 😄 Pronouns: She/Her
 - ⚡Languages & Tools:
 -    Java, Python, C
--    JavaScript 
--    HTML, CSS, Bootstrap 
--    Node.js, npm 
--    Chai
--    Mocha
--    Express.js
+-    HTML, CSS, Bootstrap, JavaScript 
+-    Node.js, npm, Chai, Mocha, Express.js
 -    MySQL
 -    Git, GitHub
 -    Android Studio, Firebase 
